@@ -1,0 +1,177 @@
+{
+  "shawarma": {
+    "title": "Шаурма",
+    "items": [
+      {
+        "id": "123e4567-e89b-12d3-a456-426655440000",
+        "name": "Шаурма с курицей (small)",
+        "price": 200,
+        "weight": 280,
+        "ingredients": "Лаваш, белый соус, мясо, маринованная морковка, капуста , помидоры свежие, огурцы свежие, горчичный соус",
+        "description": "Классическая шаурма с куриным мясом, лавашем, огурцами и помидорами. Соус нежный и ароматный.",
+        "image": "https://storage.yandexcloud.net/sushi-market/products/product_725/63ca377ad25bf-450x450.jpg"
+      },
+      {
+        "id": "234e5678-f9ab-12d3-a456-426655440000",
+        "name": "Шаурма с  курицей (BIG)",
+        "price": 260,
+        "weight": 350,
+        "ingredients": "Лаваш, белый соус, мясо, маринованная морковка, капуста , помидоры свежие, огурцы свежие , горчичный соус",
+        "description": "Классическая шаурма с куриным мясом, лавашем, огурцами и помидорами. Соус нежный и ароматный.",
+        "image": "https://storage.yandexcloud.net/sushi-market/products/product_725/63ca377ad25bf-450x450.jpg"
+      }
+    ]
+  },
+  "donar": {  
+    "title": "Донар",
+    "items": [
+      {
+        "id": "6cb33c3b-e12c-4735-be52-e69f801ceefb",
+        "name": "Донар с  курицей",
+        "price": 260,
+        "weight": 500,
+        "ingredients": "Хлебная булка , белый соус, мясо, маринованная морковка, капуста , помидоры свежие, огурцы свежие , горчичный соус",
+        "description": "Донар с куриным мясом, хлебная булкой, огурцами и помидорами. Соус нежный и ароматный.",
+        "image": "https://storage.yandexcloud.net/sushi-market/products/product_725/63ca377ad25bf-450x450.jpg"
+      }
+    ]
+  },
+  "giros": {  
+    "title": "Гирос",
+    "items": [
+      {
+        "id": "02e949e2-552d-4579-b2ae-7a1fe580ac05",
+        "name": "Гирос",
+        "price": 280,
+        "weight": 300,
+        "ingredients": "Без дрожжевая булочка, белый соус, свежие помидоры и огурцы , картофель фри",
+        "description": "Гирос - это популярное греческое блюдо, состоящее из ломтиков мяса (обычно баранины, иногда курицы или свинины), овощей (таких как помидоры, лук, салат), соусов (часто цезарь, тзатзики), все это завернуто в лаваш или питу. Гирос обычно подается как перекус или национальное блюдо.",
+        "image": "https://storage.yandexcloud.net/sushi-market/products/product_725/63ca377ad25bf-450x450.jpg"
+      }
+    ]
+  },
+  "burger": {
+    "title": "Бургер",
+    "items": [
+      {
+        "id": "288fb084-3a28-4d21-91f6-f89cbfd7974d",
+        "name": "Бургер c куринной котлетой",
+        "price": 250,
+        "weight": 0,
+        "ingredients": "Булочка , котлета, маринованный огурец, свежий помидор, сыр , горчичный соус, кетчуп, сушеный лук (нужно сделать по отдельности, бургер с куриной котлетой и бургер",    
+        "description": "Бургер с куриным мясом, хлебная булкой, огурцами и помидорами. Соус нежный и ароматный.",
+        "image": "https://storage.yandexcloud.net/sushi-market/products/product_725/63ca377ad25bf-450x450.jpg"
+
+      },
+      {
+        "id": "8572c5e2-4534-473c-8fe9-8bebf20cce26",
+        "name": "Бургер c говяжей котлетой",
+        "price": 260,
+        "weight": 0,
+        "ingredients":"Булочка , котлета, маринованный огурец, свежий помидор, сыр , горчичный соус, кетчуп, сушеный лук (нужно сделать по отдельности, бургер с говяжей котлетой и бургер",
+        "description": "Бургер с куриным мясом, хлебная булкой, огурцами и помидорами. Соус нежный и ароматный.",
+        "image": "https://storage.yandexcloud.net/sushi-market/products/product_725/63ca377ad25bf-450x450.jpg"
+      }
+    ]
+  },
+  "hot-dog": {
+    "title": "Хот-дог",
+    "items": [
+      {
+        "id": "ae83b521-bc36-47fc-9fe1-5db9ea4a8864",
+        "name": "Хот-дог в лаваше ",
+        "price": 150,
+        "weight": 0,
+        "ingredients": "Лаваш, белый соус, кетчуп, свежий огурец, помидоры свежие, сосиска куриная",
+        "description": "Хот-дог в лаваше. Соус нежный и ароматный.",
+        "image": "https://storage.yandexcloud.net/sushi-market/products/product_725/63ca377ad25bf-450x450.jpg"
+      },
+      {
+        "id": "c810ce2c-9091-44d4-999b-3c5335e3056f",
+        "name": "Датский хот-дог",
+        "price": 180,
+        "weight": 0,
+        "ingredients": "Булочка, белый соус,кетчуп, свежий огурец, помидоры свежие, сосиска говяжья",
+        "description": "Датский хот-дог. Соус нежный и ароматный.",
+        "image": "https://storage.yandexcloud.net/sushi-market/products/product_725/63ca377ad25bf-450x450.jpg"
+      },
+      {
+        "id": "20418a90-c973-4c2e-8766-ed451c40d4e2",
+        "name": "Френч дог (куриный)",
+        "price": 180,
+        "weight": 0,
+        "ingredients": "Булочка, горчичный соус, белый соус, кетчуп и куриная сосиска",
+        "description": "Френч дог. Соус нежный и ароматный.",
+        "image": "https://storage.yandexcloud.net/sushi-market/products/product_725/63ca377ad25bf-450x450.jpg"
+      },
+      {
+        "id": "9b4c6488-ac30-48a6-ac0f-21c0cb6c739c",
+        "name": "Френч дог (говяжий)",
+        "price": 180,
+        "weight": 0,
+        "ingredients": "Булочка, горчичный соус, белый соус, кетчуп и куриная либо говяжья сосиска",
+        "description": "Френч дог. Соус нежный и ароматный.",
+        "image": "https://storage.yandexcloud.net/sushi-market/products/product_725/63ca377ad25bf-450x450.jpg"
+      }
+    ]
+  },
+  "snacks": {
+    "title": "Закуски",
+    "items": [
+      {
+        "id": "3f9eac28-9049-401d-bc94-6b331d145c65",
+        "name": "Наггетсы 6 шт.",
+        "price": 120,
+        "weight": 0,
+        "ingredients": "Наггетсы",
+        "description": "Наггетсы",
+        "image": "https://storage.yandexcloud.net/sushi-market/products/product_725/63ca377ad25bf-450x450.jpg"
+      },
+      {
+        "id": "a24cff8f-09b0-4511-afc8-967a6102fe5d",
+        "name": "Сырные палочки 5 шт.",
+        "price": 100,
+        "weight": 0,
+        "ingredients": "Сырные палочки",
+        "description": "Сырные палочки",
+        "image": "https://storage.yandexcloud.net/sushi-market/products/product_725/63ca377ad25bf-450x450.jpg"
+      },
+      {
+        "id": "e87bd3e0-a988-4035-a571-f771744920f2",
+        "name": "Сырные палочки 10 шт.",
+        "price": 200,
+        "weight": 0,
+        "ingredients": "Сырные палочки",
+        "description": "Сырные палочки",
+        "image": "https://storage.yandexcloud.net/sushi-market/products/product_725/63ca377ad25bf-450x450.jpg"
+      },
+      {
+        "id": "eca886da-41eb-4d7a-8681-eae74108573e",
+        "name": "Картофель Фри (small)",
+        "price": 120,
+        "weight": 150,
+        "ingredients": "Картофель",
+        "description": "Картофель Фри, соль",
+        "image": "https://storage.yandexcloud.net/sushi-market/products/product_725/63ca377ad25bf-450x450.jpg"
+      },
+      {
+        "id": "b6e1f7a6-5f5a-4d7b-8d8f-6e6f6e6e6e6e",
+        "name": "Картофель Фри (BIG)",
+        "price": 180,
+        "weight": 200,
+        "ingredients": "Картофель",
+        "description": "Картофель Фри, соль, соль",
+        "image": "https://storage.yandexcloud.net/sushi-market/products/product_725/63ca377ad25bf-450x450.jpg"
+      },
+      {
+        "id": "efce8265-d7e2-4d11-a4df-2eb09df6039f",
+        "name": "Картофель по Деревенски",
+        "price": 120,
+        "weight": 150,
+        "ingredients": "Картофель по-деревенски, соль",
+        "description": "Картофель по Деревенски",
+        "image": "https://storage.yandexcloud.net/sushi-market/products/product_725/63ca377ad25bf-450x450.jpg"
+      }
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+* {
+  box-sizing: border-box;
+}
+
+:root {
+  --body-background-color: #333333;
+  --white-color: #ffffff;
+  --background-item: #3c3c3c;
+  --weight-color: #a0a0a0;
+  --yellow-color: #ffdd2d;
+  --yellow-hover-color: #ffca00;
+  --black-color: #000000;
+}
+
+body,
+html {
+  min-width: 320px;
+  font-size: 14px;
+  line-height: 24px;
+  font-family: 'Calibri', sans-serif;
+  background-color: var(--body-background-color);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+p,
+a,
+li,
+label,
+span,
+div {
+ margin: 0;
+ padding: 0;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+
+a {
+  display: block;
+  text-decoration: none;
+  color: var(--black-color);
+}
+
+input {
+  background-color: transparent;
+  border: none;
+  outline: none;
+  border-radius: unset;
+  appearance: none;
+}
+
+button {
+  border: none;
+  cursor: pointer;
+  background-color: transparent;
+}
+
+img {
+  width: 100%;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 16px;
+}
+
+.main {
+  padding: 40px 0;
+}
+
+@media (min-width: 1024px) and (max-width: 1279.98px) {
+  .container {
+    max-width: 963px;
+    margin: 0 auto;
+    padding: 0 16px;
+  }
+}
+
+@media (min-width: 320px) and (max-width: 1023.98px) {
+  .container {
+    max-width: 736px;
+    margin: 0 auto;
+    padding: 0 16px;
+  }
+}

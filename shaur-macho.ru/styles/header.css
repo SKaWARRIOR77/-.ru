@@ -1,0 +1,54 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.header__logo {
+  width: 100px;
+}
+
+.header__cart {
+  padding: 10px;
+  border-radius: 100%;
+  color: var(--white-color);
+  position: relative;
+}
+
+.header__cart-count {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  background-color: var(--yellow-color);
+  border-radius: 100%;
+  width: 20px;
+  height: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: var(--black-color);
+}
+
+.header__geo {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.header__geo-icon {
+  width: 20px;
+}
+
+.header__wrapper {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.header__geo-text {
+  font-size: 14px;
+  line-height: 24px;
+  color: var(--white-color);
+}
